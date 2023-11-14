@@ -1,0 +1,98 @@
+ $black : #0A100D;
+$greye : #616161;
+$blue : #9bc4bc;
+$red : #902923;
+$white : #f1fbfc;
+$shop :#D6D5C9;
+ $yellow : #D3B306;
+
+ .myTextYellow{
+ color:  $yellow  !important;
+ }
+.myBgShop{
+   background-color: $yellow;
+}
+  .myTextRed{
+ color:  $red  !important;
+ font-weight:900 !important ;
+ font-size: 3rem;
+ }
+ 
+.myBgShop{
+   background-color: $shop;
+}
+.myTextGrey{
+  color: $greye;
+}
+
+.myRedBg {
+  
+  color: $red ;
+}
+
+.myTextBlu {
+  color: $blue;
+}
+
+.myBlackBg {
+  background-color: $black !important;
+}
+.myTextBlack{
+  color: $black
+}
+
+.myWhiteBg {
+  background-color: $white !important;
+}
+
+.myTextWhite {
+  color:white;
+}
+
+
+.mybutton{
+background-color: $white !important ;
+color: #0A100D;
+ border: none !important;
+ color: #0A100D;
+}
+
+.mybutton:hover{
+   border: 1px solid $red !important;
+  color:  $white !important ;
+  background-color: #0A100D !important ;
+}
+
+.mybuttoncard{
+  border: none !important;
+  color:  $white !important ;
+  background-color: #0A100D !important ;
+}
+
+.mybuttoncard:hover{
+  background-color: $red  !important ;
+color: #0A100D;
+ color: #0A100D;
+
+}
+
+.myheight{
+  height: 255px;
+}
+
+.myshadow{
+ -webkit-box-shadow: 3px 3px 10px 0px #666666;
+-moz-box-shadow: 3px 3px 10px 0px #666666;
+-o-box-shadow: 3px 3px 10px 0px #666666;
+box-shadow: 3px 3px 10px 0px #666666;}
+
+.linea{
+  position: absolute;
+    content: '';
+    width: 1px;
+    top: -3px;
+    bottom: -3px;
+    background-color: #dc062b;
+    right: 0;
+    margin-right: 2px;
+}
