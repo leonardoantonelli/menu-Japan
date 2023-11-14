@@ -15,7 +15,7 @@ function App() {
       <Mynavbar />
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<MyHome />} />
+          <Route path="/menu-Japan" element={<MyHome />} />
           <Route path="/store" element={<MyStore />} />
           <Route path="/cart" element={<Mycartpage />} />
         </Routes>

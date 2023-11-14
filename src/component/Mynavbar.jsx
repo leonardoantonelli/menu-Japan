@@ -3,18 +3,21 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import CartIndicator from "./Cartindicator";
 import { BrowserRouter } from "react-router-dom";
-
+import logo from "../assets/fotopromo/Asset 12.png";
 function ColorSchemesExample() {
   return (
     <>
       <BrowserRouter>
         <Navbar data-bs-theme="dark" className=" fixed-top myBlackBg">
           <Container>
-            <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <img src={logo} alt="" className="imglogo" />
+            <Navbar.Brand href="/menu-Japan" className="mx-3">
+              Daruma
+            </Navbar.Brand>
             <Nav className="me-auto">
-              <Nav.Link href="#home">Home</Nav.Link>
+              <Nav.Link href="/menu-Japan">Home</Nav.Link>
 
-              <Nav.Link href="#pricing">Shop</Nav.Link>
+              <Nav.Link href="/store">Shop</Nav.Link>
 
               <CartIndicator />
             </Nav>
