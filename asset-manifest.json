@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/menu-Japan/static/css/main.51600ce6.css",
-    "main.js": "/menu-Japan/static/js/main.65d4e7ec.js",
+    "main.css": "/menu-Japan/static/css/main.d740a4ca.css",
+    "main.js": "/menu-Japan/static/js/main.076cc9a4.js",
     "static/js/787.19d4d6b9.chunk.js": "/menu-Japan/static/js/787.19d4d6b9.chunk.js",
     "static/media/masterclass_daruma.jpg": "/menu-Japan/static/media/masterclass_daruma.9226bb1ece9a4378f44d.jpg",
     "static/media/jpg": "/menu-Japan/static/media/8cc45833c34a4bc99d85375ecfde18f6.28742f9443702717d649.jpg",
+    "static/media/Asset 12.png": "/menu-Japan/static/media/Asset 12.8e4b1a011d847100f1c5.png",
     "index.html": "/menu-Japan/index.html",
-    "main.51600ce6.css.map": "/menu-Japan/static/css/main.51600ce6.css.map",
-    "main.65d4e7ec.js.map": "/menu-Japan/static/js/main.65d4e7ec.js.map",
+    "main.d740a4ca.css.map": "/menu-Japan/static/css/main.d740a4ca.css.map",
+    "main.076cc9a4.js.map": "/menu-Japan/static/js/main.076cc9a4.js.map",
     "787.19d4d6b9.chunk.js.map": "/menu-Japan/static/js/787.19d4d6b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51600ce6.css",
-    "static/js/main.65d4e7ec.js"
+    "static/css/main.d740a4ca.css",
+    "static/js/main.076cc9a4.js"
   ]
 }
