@@ -1,18 +1,31 @@
 {
   "files": {
-    "main.css": "/menu-Japan/static/css/main.d740a4ca.css",
-    "main.js": "/menu-Japan/static/js/main.076cc9a4.js",
+    "main.css": "/menu-Japan/static/css/main.8878cfaf.css",
+    "main.js": "/menu-Japan/static/js/main.38ba062e.js",
     "static/js/787.19d4d6b9.chunk.js": "/menu-Japan/static/js/787.19d4d6b9.chunk.js",
+    "static/media/Asset 3-100.jpg": "/menu-Japan/static/media/Asset 3-100.ec58eb24e8cdd1c163f9.jpg",
     "static/media/masterclass_daruma.jpg": "/menu-Japan/static/media/masterclass_daruma.9226bb1ece9a4378f44d.jpg",
-    "static/media/jpg": "/menu-Japan/static/media/8cc45833c34a4bc99d85375ecfde18f6.28742f9443702717d649.jpg",
+    "static/media/rist1.jpg": "/menu-Japan/static/media/rist1.5175cb386c8a85fc2748.jpg",
+    "static/media/scegli_orario.gif": "/menu-Japan/static/media/scegli_orario.c9afec833c7bd537f45c.gif",
+    "static/media/pagamenti_alla_consegna.gif": "/menu-Japan/static/media/pagamenti_alla_consegna.ac8f187acc05eee91045.gif",
+    "static/media/ristorante-sushi-tuscolana-m.jpg": "/menu-Japan/static/media/ristorante-sushi-tuscolana-m.9eb31c01a944045d2567.jpg",
+    "static/media/Asset 1.png": "/menu-Japan/static/media/Asset 1.e550c2771a2f1610ba43.png",
+    "static/media/pesce.gif": "/menu-Japan/static/media/pesce.7a95c440e298e295540d.gif",
+    "static/media/orologio.gif": "/menu-Japan/static/media/orologio.dc4ce587c5efd60070f2.gif",
     "static/media/Asset 12.png": "/menu-Japan/static/media/Asset 12.8e4b1a011d847100f1c5.png",
+    "static/media/c_cucina.svg": "/menu-Japan/static/media/c_cucina.096c7ba21f6f5130193fdc777d6d7143.svg",
+    "static/media/pagamenti_sicuri.gif": "/menu-Japan/static/media/pagamenti_sicuri.ae3e5a3b38be8cc58230.gif",
+    "static/media/pin.gif": "/menu-Japan/static/media/pin.d2b6eb7e841bf2bbfea3.gif",
+    "static/media/chopsticks_1f962.png": "/menu-Japan/static/media/chopsticks_1f962.18945c9d272cc44215a9.png",
+    "static/media/sushi-2265.png": "/menu-Japan/static/media/sushi-2265.70e14d0710505676fcdc.png",
+    "static/media/c_ce.svg": "/menu-Japan/static/media/c_ce.680c31b605b22c029ac8b474f7002b13.svg",
     "index.html": "/menu-Japan/index.html",
-    "main.d740a4ca.css.map": "/menu-Japan/static/css/main.d740a4ca.css.map",
-    "main.076cc9a4.js.map": "/menu-Japan/static/js/main.076cc9a4.js.map",
+    "main.8878cfaf.css.map": "/menu-Japan/static/css/main.8878cfaf.css.map",
+    "main.38ba062e.js.map": "/menu-Japan/static/js/main.38ba062e.js.map",
     "787.19d4d6b9.chunk.js.map": "/menu-Japan/static/js/787.19d4d6b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d740a4ca.css",
-    "static/js/main.076cc9a4.js"
+    "static/css/main.8878cfaf.css",
+    "static/js/main.38ba062e.js"
   ]
 }
