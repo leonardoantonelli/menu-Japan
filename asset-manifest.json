@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/menu-Japan/static/css/main.8878cfaf.css",
+    "main.css": "/menu-Japan/static/css/main.ecb32ba0.css",
     "main.js": "/menu-Japan/static/js/main.38ba062e.js",
     "static/js/787.19d4d6b9.chunk.js": "/menu-Japan/static/js/787.19d4d6b9.chunk.js",
-    "static/media/Asset 3-100.jpg": "/menu-Japan/static/media/Asset 3-100.ec58eb24e8cdd1c163f9.jpg",
+    "static/media/Sushizero_Anna-Socci-1-1.jpg": "/menu-Japan/static/media/Sushizero_Anna-Socci-1-1.7ab5432c8837cf5168c9.jpg",
     "static/media/masterclass_daruma.jpg": "/menu-Japan/static/media/masterclass_daruma.9226bb1ece9a4378f44d.jpg",
     "static/media/rist1.jpg": "/menu-Japan/static/media/rist1.5175cb386c8a85fc2748.jpg",
     "static/media/scegli_orario.gif": "/menu-Japan/static/media/scegli_orario.c9afec833c7bd537f45c.gif",
@@ -20,12 +20,12 @@
     "static/media/sushi-2265.png": "/menu-Japan/static/media/sushi-2265.70e14d0710505676fcdc.png",
     "static/media/c_ce.svg": "/menu-Japan/static/media/c_ce.680c31b605b22c029ac8b474f7002b13.svg",
     "index.html": "/menu-Japan/index.html",
-    "main.8878cfaf.css.map": "/menu-Japan/static/css/main.8878cfaf.css.map",
+    "main.ecb32ba0.css.map": "/menu-Japan/static/css/main.ecb32ba0.css.map",
     "main.38ba062e.js.map": "/menu-Japan/static/js/main.38ba062e.js.map",
     "787.19d4d6b9.chunk.js.map": "/menu-Japan/static/js/787.19d4d6b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8878cfaf.css",
+    "static/css/main.ecb32ba0.css",
     "static/js/main.38ba062e.js"
   ]
 }
