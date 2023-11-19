@@ -6,53 +6,6 @@ import Mylist from "./Mylist";
 import Mycard from "./Mycard";
 import url from "../assets/json.json";
 const Shop = () => {
-  /* state = {
-    cards: [
-      {
-        id: 0,
-        nome: "California",
-        prezzo: 11.5,
-        // img: img1,
-        ingredienti: "igrediants sushi",
-      },
-      {
-        id: 1,
-        nome: "Gunkan",
-        prezzo: 12.5,
-        //  img: img2,
-        ingredienti: "igrediants sushi",
-      },
-      {
-        id: 2,
-        nome: "Tempura",
-        prezzo: 8.5,
-        //  img: img3,
-        ingredienti: "igrediants sushi",
-      },
-      {
-        id: 3,
-        nome: "Deruma",
-        prezzo: 7.5,
-        // img: img4,
-        ingredienti: "igrediants sushi",
-      },
-      {
-        id: 4,
-        nome: "Spicy",
-        prezzo: 10.5,
-        // img: img5,
-        ingredienti: "igrediants sushi",
-      },
-      {
-        id: 5,
-        nome: "Salmon sushi",
-        prezzo: 11.5,
-        // img: img6,
-        ingredienti: "igrediants sushi",
-      },
-    ],
-  }; */
-
   const [piatto, setPiatto] = useState([]);
   // const [bookSelected, setBookSelected] = useState(null);
   useEffect(() => {

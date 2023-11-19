@@ -5,6 +5,11 @@ $red : #902923;
 $white : #f1fbfc;
 $shop :#D6D5C9;
  $yellow : #D3B306;
+  $pink : #FB7E69;
+
+.myBgPink{
+   background-color: $pink;
+}
 
  .myTextYellow{
  color:  $yellow  !important;
@@ -60,7 +65,7 @@ color: #0A100D;
 .mybutton:hover{
    border: 1px solid $red !important;
   color:  $white !important ;
-  background-color: #0A100D !important ;
+  background-color: $red!important ;
 }
 
 .mybuttoncard{
@@ -79,6 +84,12 @@ color: #0A100D;
 .myheight{
   height: 255px;
 }
+.myborder{
+  border: 3px solid $red;
+  border-radius: 25px !important;
+}
+.myborder
+
 
 .myshadow{
  -webkit-box-shadow: 3px 3px 10px 0px #666666;
@@ -99,4 +110,79 @@ box-shadow: 3px 3px 10px 0px #666666;}
 
 .imglogo{
   height: 40px;
+}
+
+.mygif{
+  height: 150px;
+
+}
+
+.mybg1{
+  background-image: url("../assets/fotopromo/Asset\ 1.png" ) ;
+  opacity: 100%;
+  background-repeat: no-repeat;
+ height: 500px;
+ background-size: cover;
+
+}
+
+.myristo1{
+  background-image: url("../assets/fotopromo/Asset\ 3-100.jpg" ) ;
+  opacity: 100%;
+  background-repeat: no-repeat;
+ height: 500px;
+ background-size: cover;
+  transition: transform .2s;
+
+}
+
+.myristo2{
+  background-image: url("../assets/fotopromo/rist1.jpg" ) ;
+  opacity: 100%;
+  background-repeat: no-repeat;
+ height: 500px;
+ background-size: cover;
+  transition: transform .2s;
+
+}
+
+.myristo3{
+  background-image: url("../assets/fotopromo/ristorante-sushi-tuscolana-m.jpg" ) ;
+  opacity: 100%;
+  background-repeat: no-repeat;
+ height: 500px;
+ background-size: cover;
+  transition: transform .2s;
+ 
+}
+.myristo3:hover , .myristo1:hover , .myristo2:hover {
+  
+}
+
+.my-position-relative{
+  position: relative;
+  top: -18px;
+  background-color: #0A100D;
+ 
+  
+}
+
+.emoji1{
+  
+  height: 50px;
+
+}
+
+.title{
+ font-family: 'Archivo', sans-serif;
+ font-size: 2.5rem;
+ font-weight: 900;
+ 
+}
+
+.mydim{
+  width: 70%;
+}
+.cert{
+  width: 50px;
 }

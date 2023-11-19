@@ -4,7 +4,7 @@
         "nome": "California",
         "prezzo": 11.5,
         "quantità": 1,
-        "img":"foto piatti/dragon-roll-daruma-sushi.jpg",
+        "img":"https://www.darumasushi.com/wp-content/uploads/2022/03/daruma-truffle-roll.jpg",
         "ingredienti": "Riso venere con interno di tonno e avocado."
       },
   {
@@ -12,7 +12,7 @@
         "nome": "Gunkan",
         "prezzo": 12.5,
         "quantità": 2,
-       "img": "foto piatti/gunkan-salmon-daruma-sushi.jpg",
+       "img": "https://www.darumasushi.com/wp-content/uploads/2023/06/tropical_vibe.jpg" ,
        "ingredienti": "Fiocchi di tempura, tartare di tonno in salsa truffle-mayo, scaglie di tartufo e erba cipollina."
       },
       {
@@ -20,7 +20,7 @@
        "nome": "Tempura",
        "prezzo": 8.5,
        "quantità": 4,
-       "img": "foto piatti/gunkan-salmon-philadelphia-daruma-sushi.jpg",
+       "img": "https://www.darumasushi.com/wp-content/uploads/2022/03/daruma-truffle-roll.jpg",
        "ingredienti": "Insalata di Alghe Verdi con Sesamo leggermente piccanti*"
       },
       {
@@ -28,7 +28,7 @@
        "nome": "Deruma",
        "prezzo": 7.5,
        "quantità": 1,
-       "img": "foto piatti/mango-tartare-daruma-sushi-1.jpg",
+       "img": "https://www.darumasushi.com/wp-content/uploads/2021/12/flower-roll-2021-daruma-sushi.jpg",
        "ingredienti": "Roll con Salmone Fritto, cetriolo avvolto con Avocado"
       },
       {
@@ -36,7 +36,7 @@
        "nome": "Spicy",
        "prezzo": 10.5,
        "quantità": 1,
-       "img": "foto piatti/salmon-fry-daruma-sushi.jpg",
+       "img": "https://www.darumasushi.com/wp-content/uploads/2017/09/new-tiger.jpg",
        "ingredienti": "Roll con Gambero Fritto* e  yuzu mayo"
       },
        {
@@ -44,38 +44,38 @@
        "nome": "Spicy",
        "prezzo": 10.5,
        "quantità": 2,
-       "img": "foto piatti/nigiri-salmone-avocado-daruma-sushi.jpg",
-       "ingredienti": "Roll Avvolto da Salmone Affumicato, all’interno philadelphia e cetriolo"
+       "img": "https://www.darumasushi.com/wp-content/uploads/2021/07/Mango-style-1200x1048.jpg",
+       "ingredienti": "Roll Avvolto da Salmone Affumicato, all interno philadelphia e cetriolo"
       },
     {
-        "id": 10,
+        "id": 6,
         "nome": "Salmon sushi",
         "prezzo": 11.5,
         "quantità": 4,
-        "img": "foto piatti/6.jpg",
+        "img": "https://www.darumasushi.com/wp-content/uploads/2017/09/hosomaki-salmone-daruma-sushi.jpg",
         "ingredienti": "Roll con Salmone Crudo e avocado, ricoperto di Salmone e Fiocchi di tempura"
       },{
-        "id": 11,
+        "id": 7,
         "nome": "Salmon sushi",
         "prezzo": 11.5,
         "quantità": 2,
-        "img": "foto piatti/new-tiger.jpg",
+        "img": "https://www.darumasushi.com/wp-content/uploads/2017/09/new-york-roll-daruma-sushi.jpg",
         "ingredienti": "Roll Vegetariano con Carote e Zucchina fritta in Tempura, avvolto con Avocado"
       },
       {
-        "id": 12,
+        "id":8,
         "nome": "Salmon sushi",
         "prezzo": 11.5,
         "quantità": 6,
-        "img": "foto piatti/spicy-salmon-daruma-sushi (1).jpg",
+        "img": "https://www.darumasushi.com/wp-content/uploads/2017/09/nigiri-tonno-daruma-sushi.jpg",
         "ingredienti": "Roll con Tartare di salmone crudo leggermente piccante"
       },
 {
-        "id": 13,
+        "id": 9,
         "nome": "California",
         "prezzo": 11.5,
         "quantità": 2,
-        "img":"foto piatti/1.jpg",
+        "img":"https://www.darumasushi.com/wp-content/uploads/2017/09/nigiri-salmone-avocado-daruma-sushi.jpg",
         "ingredienti": "Roll con Salmone Crudo, avocado e Philadelphia"
       }
 

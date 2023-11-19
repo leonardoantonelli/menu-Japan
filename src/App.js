@@ -18,6 +18,7 @@ function App() {
           <Route path="/menu-Japan" element={<MyHome />} />
           <Route path="/store" element={<MyStore />} />
           <Route path="/cart" element={<Mycartpage />} />
+          <Route path="/contatti" element={<Mycartpage />} />
         </Routes>
       </BrowserRouter>{" "}
     </>

@@ -24,6 +24,13 @@ const Mycard = ({ piatto }) => {
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
+
+  // mia
+
+  const mydispatch = () => {
+    dispatch({ type: "ADD_TO_CART", payload: piattoSelected });
+  };
+
   return (
     <Card className="w-100 myheight myshadow">
       <Card.Img variant="top" src={piatto.img} className="w-100" />
@@ -32,8 +39,8 @@ const Mycard = ({ piatto }) => {
 
         <p className="mt-1">
           {" "}
-          {piatto.prezzo} $ <strong className="myRedBg ">// </strong>{" "}
-          {piatto.quantità} pz.
+          <strong> {piatto.prezzo}€</strong>{" "}
+          <strong className="myRedBg ">// </strong> {piatto.quantità} pz.
         </p>
 
         <Button
